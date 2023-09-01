@@ -1,0 +1,13 @@
+File: README
+Date: 11/29/2021
+Author: Aleksi Hieta
+
+
+Instructions:
+	1. Run compileall to compile the appropriate files.
+
+	2. The executables created are keygen, enc_client, dec_client
+	   enc_server, and dec_server.
+
+	3. Sample plaintext documents are included along with the
+	   p5testscript.
